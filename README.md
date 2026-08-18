@@ -4,7 +4,8 @@ Take-home exploration workspace for bitbybit Studio.
 
 ## Start here
 
-- `takehome.md`: original task and manual/discretionary observations.
+- `takehome.md`: original task instructions.
+- `reports/<run-id>/02-discretionary-observations.md`: extracted manual/discretionary observations and evidence-backed refinements.
 - `qa/agentic-exploration-spec.md`: approved `/droid-control` exploration plan.
 - `qa/scenarios.md`: bounded scenario catalog and hypothesis list.
 - `qa/prompts/explorer.md`: agent-browser control prompt.

@@ -2,6 +2,22 @@
 
 Preserve source observations from `takehome.md` as observations. Confirmed findings below are limited to captured public or in-product evidence.
 
+## Source observations from the take-home
+
+These notes were extracted from the original take-home file. They remain hypotheses or product ideas unless the evidence below confirms them.
+
+| Area | Source observation or suggestion | Question to investigate |
+|---|---|---|
+| Onboarding and stack | The interface appeared to use React and Next.js, which could support a mature SaaS ecosystem and LLM-assisted development. | Confirm technical assumptions separately from product behavior; do not treat visual inference as proof. |
+| Onboarding behavior | An option text box might scroll or close unexpectedly when clicked or dragged. | Is this a repeatable usability defect or an expected interaction? |
+| Onboarding goals | The current-goal control appeared to allow only one selection. | Should users select multiple goals, or is one primary goal intentional? |
+| Pricing and promotion | Referral or promotional codes, pay-as-you-go pricing, or a-la-carte plans could reduce entry friction. | Which packaging models are planned or strategically supported? |
+| Documentation and support | A knowledge base with docs and manuals could reduce reliance on chat-only support. | Which setup tasks should users complete independently? |
+| bitLink branding | The bitbybit logo text may be intentional literal text rather than a missing rendered logo. | Is text-based branding intentional across products? |
+| Marketplace coverage | Sophisticated scraping or alternative workflows could support marketplaces without explicit APIs, including Shopee, Tokopedia, Lazada, and Blibli. | Which marketplaces are supported natively, through imports, through APIs, or only on the roadmap? |
+| Customer data | Google Contacts or WhatsApp Contacts integration could improve CRM setup. | Is contact sync in scope, and what permissions should it require? |
+| Subscription and access | Experimental integrations or features, plus free access for developers, students, or selected businesses, could encourage adoption. Deposits or usage safeguards could protect fair use. | How should experimental and educational access be gated without encouraging abuse? |
+
 ## Observation matrix
 
 | ID | Observation | Impact | Automated evidence | Hypothesis | Recommendation | Confidence | Status |
